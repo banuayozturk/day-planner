@@ -5,7 +5,7 @@
 
 In this project I worked on a day-planner which I can save daily events in time-blocks. User can detect upcoming, past and present events easily because time-blocks are color-coded. Also current day and current hour is displayed at the top of the calender.
 
-With this project, I aimed to learn and apply Jquery  and Bootstrap. I might say that advantages of third part apis has been an impressive experience.
+With this project, I aimed to learn and apply Jquery  and Bootstrap. I might say that experiencing the advantages of the third part apis have been educative.
 
 ## Screenshot
 
