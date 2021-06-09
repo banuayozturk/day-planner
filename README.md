@@ -10,7 +10,7 @@ With this project, I aimed to learn and apply Jquery  and Bootstrap. I might say
 
 ## Screenshot
 
-![screen-shot1.png](./images/screen-shot.png)
+![screen-shot1.png](./images/screen-shot1.png)
 ![screen-shot2.png](./images/screen-shot2.png)
 
 ## Credits/Libraries
