@@ -14,8 +14,10 @@ With this project, I aimed to learn and apply Jquery  and Bootstrap. I might say
 ![screen-shot2.png](./images/screen-shot2.png)
 
 ## Credits/Libraries
- [w3schools bootstrap tutorials](hhttps://www.w3schools.com/bootstrap/)
+ [w3schools bootstrap tutorials](https://www.w3schools.com/bootstrap/)
+
  [w3schools jquery tutorials](https://www.w3schools.com/jquery/)
+ 
  [stackoverflow - Setting Local Storage](https://stackoverflow.com/questions/40791207/setting-and-getting-localstorage-with-jquery)
  
 
